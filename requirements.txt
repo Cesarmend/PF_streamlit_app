@@ -3,7 +3,5 @@ pandas
 numpy
 scikit-learn
 xgboost
-pydeck
-joblit
+pydeck>=0.8
 pyarrow
-
