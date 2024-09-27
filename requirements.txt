@@ -5,3 +5,4 @@ scikit-learn
 xgboost
 pydeck>=0.8
 pyarrow
+joblib
